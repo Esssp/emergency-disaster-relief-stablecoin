@@ -70,7 +70,7 @@ This project is a prototype intended for academic and demonstration purposes. No
 ---
 
 ## Team Members
-1. Sai Spoorthi Eturu
+1. Sai Spoorthy Eturu
 2. Katakam Sahithi Rithvika
 
 ---
