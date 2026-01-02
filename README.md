@@ -50,8 +50,28 @@ This prototype does not use a real blockchain network and is intended for demons
 
 ---
 
-The application will be available at:
+## The application will be available at:
 http://localhost:5173
+
+---
+
+## Demo Usage Guide
+Use the role selector at the top of the interface to switch between Admin, Beneficiary, Merchant, and Donor views.
+From the Admin view, allocate funds to a beneficiary under a selected category.
+Switch to the Beneficiary view and attempt a payment to a merchant.
+Observe successful or blocked transactions based on category and verification rules.
+View transaction details in the blockchain ledger interface.
+
+---
+
+## Disclaimer
+This project is a prototype intended for academic and demonstration purposes. No real cryptocurrency, wallets, or blockchain networks are used.
+
+---
+
+## Team Members
+Sai Spoorthi Eturu
+Katakam Sahithi Rithvika
 
 ---
 
